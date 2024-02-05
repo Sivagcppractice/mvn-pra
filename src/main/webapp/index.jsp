@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2>               Hello Friends!               </h2>
-<h3> !!!!!!!! WELCOME TO DEVOPS with GCP practice !!!!!     </h3>
+<h2>               !Hello Friends!               </h2>
+<h3> !!!!!!!! WELCOME TO DEVOPS with GCP practice !!!!!!!!!!</h3>
 <h4> @Trainers - SHYAM / TEJA / ABHIRAM  / VISHNU  / RAVI   </h4>
 <marquee behavior="alternate">Devops</marquee>
 <font color="WHITE"><marquee direction="left" style="background:GREEN">DEVOPS</marquee></font>
